@@ -167,3 +167,6 @@
 #define MC_RCBR RA(CH_9)    // }
 #define MC_LBRC RA(CH_5)    // [
 #define MC_RBRC RA(CH_6)    // ]
+#define MC_AT RA(CH_G)      // @
+#define MC_LABK GRAVE       // <
+#define MC_RABK LS(GRAVE)   // >
